@@ -1,6 +1,7 @@
 # Codeforces-Profile-Analyzer
 
-User can input any Username and can see particular user rating as well as other informations in the form of tables and graph.(Html,CSS,Jquery,JS charts,Codeforces API)
+By entering any Codeforces username, users can view certain information about them, such as their max rating, how many contests they have participated in,their current rating etc ,in the form of tables and graph.
+Technologies used: (Html,CSS,Jquery,JS charts,Codeforces API)
 
 ---
 
