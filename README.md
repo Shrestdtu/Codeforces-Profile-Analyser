@@ -7,7 +7,7 @@ Technologies used: (Html,CSS,Jquery,JS charts,Codeforces API)
 
 ### Visit the page and know your codefrces informations:
 
-## https://codeforcesvisualizer.herokuapp.com
+## https://shrestdtu.github.io/Codeforces-Profile-Analyser/
 
 ## https://github.com/Shrestdtu
 
